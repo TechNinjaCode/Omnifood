@@ -1,7 +1,49 @@
+/*
+--- TYPOGRAPHY SYSTEM
+
+- Font Family
+Default: sans-serif
+
+
+FONT SIZE SYSTEM (px)
+
+- Font Weights
+Default: 400
+
+-Line heights
+Default: 1
+
+--- COLORS
+
+- Primary #e67e22
+
+- Tints:
+- Shades
+- Accents:
+- Greys
+#555
+
+
+--- SHADOWS
+
+
+--- BORDER-RADIUS
+
+--- WHITESPACE
+
+- Spacing System 
+
+
+*/
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
 }
 
 body {
