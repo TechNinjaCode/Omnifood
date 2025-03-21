@@ -125,6 +125,7 @@ screen size divided by 16px = rem/em value */
 
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
 
   .main-nav {
